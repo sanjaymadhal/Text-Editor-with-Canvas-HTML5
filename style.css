@@ -1,0 +1,43 @@
+h1 { 
+    padding-top: 40px; 
+    padding-bottom: 40px; 
+    text-align: center; 
+    color: lightcoral; 
+    font-family: 'Montserrat', sans-serif; 
+} 
+
+section { 
+    padding: 5%; 
+    padding-top: 0; 
+    height: 100vh; 
+} 
+
+.side { 
+    margin-left: 0; 
+} 
+
+button { 
+    margin: 10px; 
+    border-color: lightcoral !important; 
+    color: #888888 !important; 
+    margin-bottom: 25px; 
+} 
+
+button:hover { 
+    background-color: #fec8d8 !important; 
+} 
+
+textarea { 
+    padding: 3%; 
+    border-color: lightcoral; 
+    border-width: thick; 
+} 
+
+.flex-box { 
+    display: flex; 
+    justify-content: center; 
+} 
+h6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
